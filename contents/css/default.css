@@ -1,0 +1,313 @@
+/*
+Design by Free CSS Templates
+http://www.freecsstemplates.org
+Released for free under a Creative Commons Attribution 2.5 License
+*/
+.hand { cursor:pointer;}
+
+
+/* Header */
+
+#header {
+	width: 1200px;
+	height:100px;
+	margin:auto;
+	background-image: radial-gradient(circle,#17568c,#1a3867);
+    background-repeat: no-repeat;
+    border-top: 1px solid #2f64b8;
+    border-bottom: 1px solid #10223e;
+	/*background: url(../../contents/images/img03.gif) repeat-x left bottom;*/
+}
+
+#header span{
+	color: #A0A0A0;
+	float:right;
+	line-height:50px;
+	color:#009344;
+	font-size:16px;
+	text-shadow: 10px 10px 5px #888888;
+
+}
+
+#logo {
+	float: left;
+	padding: 0 30px;
+	line-height: 90px;
+	
+}
+#logo_text
+{
+	float:left;
+	padding: 0 20px;
+}
+
+#logo h1 {
+	font-size: 38px;
+	color:#ffffff;
+}
+
+#logo h1 sup {
+	/*vertical-align: text-top;*/
+	
+}
+
+#logo h1 a {
+	
+}
+
+#logo h2 {
+	color:#ffffff;	
+}
+#logo h4 {
+	color:#ffffff;	
+}
+
+#logo a {
+	text-decoration: none;
+	float:left;
+}
+
+/* Menu */
+
+#menu {
+	float: right;
+}
+
+#menu ul {
+	margin: 0;
+	padding: 15px 0 0 0;
+	list-style: none;
+}
+
+#menu li {
+	display: inline;
+}
+
+#menu a {
+	display: block;
+	float: left;
+	margin-left: 30px;
+	padding: 7px;
+	text-decoration: none;
+	font-size: 13px;
+	color: #ffffff;
+}
+
+#menu a:hover {
+}
+
+#menu .active a {
+	/*background: url(images/img02.gif) repeat-x left bottom;*/
+}
+
+/* Page */
+
+#page {
+	width: 1200px;
+	margin: 0 auto;
+}
+
+/* Content */
+
+#content {
+	float: left;
+	width: 950px;
+}
+
+/* Post */
+
+.post {
+}
+
+.post .title {
+	font-size:30px;
+	margin-bottom: 20px;
+	padding-bottom: 5px;
+	background: url(../../contents/images/img03.gif) repeat-x left bottom;
+	border-left:4px solid #A0A0A0; text-indent:10px;
+}
+
+.post .entry {
+}
+.post .entry p{
+	font-size:13px;
+}
+
+.post .meta {
+	padding: 15px 0 0px 0;
+	background: url(../../contents/images/img03.gif) repeat-x;
+}
+
+.post .meta p {
+	margin: 0;
+	line-height: normal;
+	color: #999999;
+}
+
+.post .meta .byline {
+	float: left;
+}
+
+.post .meta .links {
+	float: right;
+}
+
+.post .meta .more {
+	padding: 0 20px 0 18px;
+	background: url(../../contents/images/img06.gif) no-repeat left center;
+}
+
+.post .meta .comments {
+	padding-left: 22px;
+	background: url(../../contents/images/img07.gif) no-repeat left center;
+}
+
+.post .meta b {
+	display: none;
+}
+
+/* Sidebar */
+
+#sidebar {
+/*
+	float: right;
+	margin-right:50px;
+*/
+
+}
+
+#sidebar ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+#sidebar li {
+	margin-bottom: 40px;
+}
+
+#sidebar li ul {
+}
+
+#sidebar li li {
+	margin: 0;
+}
+
+#sidebar h2 {
+	margin-bottom: 10px;
+	background: url(../../contents/images/img03.gif) repeat-x left bottom;
+	font-size: 16px;
+}
+
+/* Search */
+
+#search {
+}
+
+#search h2 {
+	margin-bottom: 20px;
+}
+
+#s {
+	width: 120px;
+	margin-right: 5px;
+	padding: 3px;
+	border: 1px solid #F0F0F0;
+}
+
+#x {
+	padding: 3px;
+	background: #ECECEC url(../../contents/images/img08.gif) repeat-x left bottom;
+	border: none;
+	text-transform: lowercase;
+	font-size: 11px;
+	color: #4F4F4F;
+}
+
+/* Boxes */
+
+.box1 {
+	padding: 20px;
+	background: url(../../contents/images/img05.gif) no-repeat;
+}
+
+.box2 {
+	color: #BABABA;
+}
+
+.box2 h2 {
+	margin-bottom: 15px;
+	background: url(../../contents/images/img10.gif) repeat-x left bottom;
+	font-size: 16px;
+	color: #FFFFFF;
+}
+
+.box2 ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.box2 a:link, .box2 a:hover, .box2 a:active, .box2 a:visited  {
+	color: #EDEDED;
+}
+
+/* Footer */
+
+#footer {
+	/*
+	height: 100px;
+	width:100%;
+	background: url(../../contents/images/img09.gif) repeat-x 100px;*/
+}
+
+html>body #footer {
+	/*height: auto;*/
+}
+
+#footer .wrap {
+	width: 950px;
+	margin: 0 auto;
+}
+
+#legal {
+	clear: both;
+	padding-top: 20px;
+	text-align: center;
+	color: #375C69;
+}
+
+#legal a {
+	color: #476B77;
+}
+
+#fbox1, #fbox2, #fbox3 {
+	float: left;
+}
+
+#fbox1 {
+	width: 350px;
+}
+
+#fbox2 {
+	width: 230px;
+	padding-left: 70px;
+}
+
+#fbox3 {
+	width: 230px;
+	padding-left: 70px;
+}
+.back1 { background:#deebf5; }
+
+
+
+
+
+.fa-arrow-up:before{content:""}
+.fa-arrow-down:before{content:""}
+
+.panel-heading {background-image: radial-gradient(circle,#f0f0f0,#ddd);}
+.panel-heading a{font-weight: bold;}
+.panel-heading a.active{color:#000;}
+.function_buttons a{cursor: pointer;}

@@ -1,0 +1,73 @@
+.sidebar #nav li i{
+	/*display: none;*/
+}
+
+.sidebar #nav li span{
+	margin-top: 5px;
+}
+
+.sidebar #nav > li > a { 
+	padding: 5px 15px;
+}
+
+.sidebar #nav li ul li a { 
+	padding: 5px 20px;
+}
+
+.content{
+	background-color: #f8f8f8;
+}
+
+.matter{
+	background-color: white;
+}
+
+.mainbar{
+	/*background: none;*/
+}
+.mainbar .page-head{
+	padding-top: 0px;
+	border-bottom: none;
+}
+
+.padd2{
+	padding: 6px;
+}
+
+span.label{
+	text-shadow: none;
+	font-size: 11px;
+}
+
+a.btn{
+	font-size: 13px !important;
+	font-weight: bold;
+	text-shadow: none;
+}
+
+.pointer{
+	cursor: pointer;
+}
+
+.pointer-left{
+	cursor: w-resize;
+}
+
+.pointer-right{
+	cursor: e-resize;
+}
+
+ul.layout,ul.layout_sub{
+	list-style: none;
+	margin: 0px;
+	padding: 0px;
+}
+
+ul.layout li{
+	float: left;
+	margin-right: 10px;
+}
+
+ul.layout_sub li{
+	float: none;
+}

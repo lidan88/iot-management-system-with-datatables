@@ -1,0 +1,52 @@
+Could not open input file: logging.php
+Could not open input file: logging.php
+Could not open input file: logging.php
+Could not open input file: logging.php
+Could not open input file: logging.php
+
+	PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215
+PHP Notice:  Undefined index: wdten in /var/www/html/rpb/src/background/logging.php on line 93
+PHP Notice:  Undefined index: serverip in /var/www/html/rpb/src/background/logging.php on line 94
+PHP Notice:  Undefined index: wdttime in /var/www/html/rpb/src/background/logging.php on line 95
+PHP Notice:  Undefined index: wdten in /var/www/html/rpb/src/background/logging.php on line 93
+PHP Notice:  Undefined index: serverip in /var/www/html/rpb/src/background/logging.php on line 94
+PHP Notice:  Undefined index: wdttime in /var/www/html/rpb/src/background/logging.php on line 95
+PHP Notice:  Undefined index: wdten in /var/www/html/rpb/src/background/logging.php on line 93
+PHP Notice:  Undefined index: serverip in /var/www/html/rpb/src/background/logging.php on line 94
+PHP Notice:  Undefined index: wdttime in /var/www/html/rpb/src/background/logging.php on line 95
+PHP Notice:  fwrite(): send of 2 bytes failed with errno=32 Broken pipe in /var/www/html/rpb/src/reference/phpMQTT/phpMQTT.php on line 215

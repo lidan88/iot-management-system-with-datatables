@@ -1,0 +1,39 @@
+.ui-state-highlight2{
+	border: 3px solid yellow;
+	width: 20px;
+	height: 20px;
+}
+
+.custom-menu {
+    z-index:1000;
+    position: absolute;
+    background-color:#fff;
+    
+    border: 1px solid #ccc;
+    padding: 5px 10px 5px 10px;
+    cursor: pointer;
+}
+
+.empty{
+	width: 20px;
+	height: 20px;
+	border: 1px dashed gray;
+}
+
+
+li.root{
+	border: 2px solid #ffffff;
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.li_hover{
+	/*border: 1px solid #efefef;*/
+	/*border-left: 1px solid #333;*/
+	border: 1px solid #333;
+	/*font-weight: bold;*/
+	color: green;
+	padding: 3px;
+}
